@@ -5,6 +5,7 @@ https://trello.com/b/hJvvzUlS/projetpython2
 
 DIAGRAMME DE CLASSE:
 https://online.visual-paradigm.com/w/xfdefzws/diagrams/#diagram:workspace=xfdefzws&proj=0&id=8&type=ClassDiagram
+
 ![Diagramme_de_classe (1)](https://github.com/DAAK6115/Projet_Python-_Gestion_Association/assets/122787773/eac86428-e3e6-4b28-974d-2dacce79dd52)
 
 
