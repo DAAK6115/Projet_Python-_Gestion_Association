@@ -12,5 +12,8 @@ https://online.visual-paradigm.com/w/xfdefzws/diagrams/#diagram:workspace=xfdefz
 DIAGRAMME DE CAS D'UTILISATION:
 https://online.visual-paradigm.com/w/xfdefzws/diagrams/#diagram:workspace=xfdefzws&proj=0&id=10&type=UseCaseDiagram
 
+![Diagramme_Utilisation](https://github.com/DAAK6115/Projet_Python-_Gestion_Association/assets/122787773/0ef116d0-1fd2-410c-ac34-3cd102131b53)
+
+
 WIREFRAME:
 https://app.visily.ai/projects/ec2b6ace-d07a-45c2-bd9c-ce8d83d519d6/boards/670706
